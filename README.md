@@ -1,7 +1,8 @@
 # Welcome to my profile! 👋
-## Currently looking for a job
+## *Currently looking for a job*
 
-## Living in Toronto 🇨🇦
+I'm a 18 years old student in Canada (❁´◡`❁), I've been learning full stack development since 2019 as self-taught. 
+I would like to join to this community to improve and share what I've been learning. 
 
 ```javascript
 
@@ -65,5 +66,6 @@ return(
   </a>
 </p>
 
+## Have a nice day everyone 🙌
 
 
