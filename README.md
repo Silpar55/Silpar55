@@ -1,7 +1,7 @@
-#Welcome to my profile! 👋#
-##Currently looking for a job##
+# Welcome to my profile! 👋
+## Currently looking for a job
 
-##Living in Toronto 🇨🇦##
+## Living in Toronto 🇨🇦
 
 ```javascript
 
