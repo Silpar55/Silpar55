@@ -1,16 +1,69 @@
-### Hi there 👋
+#Welcome to my profile! 👋
+##Currently looking for a job
 
-<!--
-**Silpar55/Silpar55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+__Living in Toronto 🇨🇦
 
-Here are some ideas to get you started:
+```javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+function MyProfile() {
+const alejandro =
+{
+name: "Alejandro SIlva Juarez",
+job: "Web developer",
+school: "Seneca College",
+languages: [
+{
+language: "Spanish",
+level: "Native",
+},
+{
+language: "English",
+level: "Fluenty",
+},
+{
+language: "Korean",
+level: "intermediate",
+},
+],
+}
+
+return(
+<>
+<div className="container">
+  <h1>Hi 👋, I'm {alejandro.name}</h1>
+  <h2>Self-taught {alejandro.job} since 2019</h2>
+  <p>currently studying in {alejandro.school}</p>
+
+  <h1>Languages</h1>
+  {
+  alejandro.languages.map((lan, i) => (
+  <div key={i}>
+  <p>{lan.name}: <span>{lan.level}</span></p>
+  </div>
+  ));
+  }
+</div>
+</>
+)
+
+} 
+
+
+```
+- 🔭 I’m currently working on      :  __enchancing my knowledge
+- 🌱 I’m currently learning        : __React.js, Python, Node.js, C, C++ and so on!
+- 👯 I’m looking to collaborate on : __Projects that help me on my personal objectives
+- 🤔 I’m looking for help with     : __OOP languages
+- 💬 Ask me about                  : __What are my plans in my future
+
+<h2 align="center">You can reach me at :alien:</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alejandro-canada-4a955127b/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Alejandro Silva Juarez Linkedin" height="30" width="30">
+  </a>
+</p>
+
+
+
