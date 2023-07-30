@@ -57,7 +57,7 @@ return(
 - 🤔 I’m looking for help with     : __OOP languages
 - 💬 Ask me about                  : __What are my plans in my future
 
-<h2 align="center">You can reach me at :alien:</h2>
+<h2 align="center">You can reach me at ⭐</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alejandro-canada-4a955127b/">
