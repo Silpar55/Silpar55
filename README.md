@@ -1,7 +1,7 @@
-#Welcome to my profile! 👋
-##Currently looking for a job
+#Welcome to my profile! 👋#
+##Currently looking for a job##
 
-__Living in Toronto 🇨🇦
+##Living in Toronto 🇨🇦##
 
 ```javascript
 
@@ -51,11 +51,11 @@ return(
 
 
 ```
-- 🔭 I’m currently working on      :  __enchancing my knowledge
-- 🌱 I’m currently learning        : __React.js, Python, Node.js, C, C++ and so on!
-- 👯 I’m looking to collaborate on : __Projects that help me on my personal objectives
-- 🤔 I’m looking for help with     : __OOP languages
-- 💬 Ask me about                  : __What are my plans in my future
+- 🔭 I’m currently working on      :  enchancing my knowledge
+- 🌱 I’m currently learning        : React.js, Python, Node.js, C, C++ and so on!
+- 👯 I’m looking to collaborate on : Projects that help me on my personal objectives
+- 🤔 I’m looking for help with     : OOP languages
+- 💬 Ask me about                  : What are my plans in my future
 
 <h2 align="center">You can reach me at ⭐</h2>
 
