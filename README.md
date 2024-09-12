@@ -61,7 +61,7 @@ return(
 <h2 align="center">You can reach me at ⭐</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alejandro-canada-4a955127b/">
+  <a href="https://www.linkedin.com/in/alejandro-silva-juarez-9bb00621b" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Alejandro Silva Juarez Linkedin" height="30" width="30">
   </a>
 </p>
