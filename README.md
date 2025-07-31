@@ -52,7 +52,7 @@
 ---
 
 ## 📫 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/linkedin-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alejandro-silva-juarez-9bb00621b)
+[![LinkedIn](https://img.shields.io/badge/linkedin-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/asilvaj)
 
 ---
 
