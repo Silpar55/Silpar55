@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://your-animated-gif-or-banner.gif" alt="👋 Welcome!" width="600"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmIwejlxemJxeDl0ZG1sbXVmaTB6aThyYnV3cmx5Ynd6dnZ2dm15ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2uIJRIkWiEmcw/giphy.gif" alt="👋 Welcome!" width="300"/>
 </p>
 
 # Hi there, I'm **Alejandro Silva Juarez** 👋
